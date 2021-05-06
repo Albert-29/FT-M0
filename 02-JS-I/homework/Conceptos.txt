@@ -1,0 +1,21 @@
+Variables. Una variable es un lugar donde guardas cosas, podemos imaginar un recipiente en donde 
+    estas guardando datos y cuando los utilices estaran listo, a estos recipientes les debes de poner
+    un nombre que los identifique.
+
+Strings. Un String es un tipo de dato que se compone de letras, este tipo de variables o recipientes usando 
+    el ejemplo de las variables, puede almacenar solo cadenas de texto.
+
+Funciones (argumentos, return) Una funcion es un equipo de instrucciones que 
+    realizan una tarea o un calculo, pero para poder realizar las tareas 
+    necesitan instrucciones conocidas como argumentos podemos decir que son la
+    entrada de los datos, tambien la funcion necesita devolver un valor o el resultado
+    de la tarea o calculo que hizo para esto se utiliza la palabra "return"
+
+Declaraciones if. Esta declaracion no permite hacer comparaciones entre un dato y otro
+    para esto se utilizan los operadores de comparacion <,>,=,!,=>,=<.
+
+Valores booleanos (true, false)
+    Los valores booleanos son dos true que lo podemos ver como encendido
+    y false como apagado, imagina un boton de una bombilla, cuando el boton esta encendido
+    y la bombilla irradia luz podemos decir que es "true", cuando el boton esta apagado
+    la bombilla no irradia luz entonces decimos que es "false"
