@@ -1,0 +1,36 @@
+"for". para poder comprender este concepto de preogramación 
+    imaginemos un ciclo por ejemplo el ciclo del agua tiene 
+    un inicio y un final, el bucle for es parecido se ejecuta una y otra vez
+    pero depende de una condicion numerica para seguir ejecutandos, e incrementa 
+    1 vez cada que la condicion se cumpla y finaliza cuando la condicion no se cumple. 
+
+$$ (and).
+        El operador logico and su funcion principal es comparar dos o mas terminos por ejemplo:
+        if (3>1 && 2<1), esta comparación devuelve un resultado, para devolver el resultado los
+        dos terminos que se comparan deben cumplir con la siguiente tabla de valores:
+
+        V && V === V 
+        V && F === F 
+        F && V === F 
+        F && F === F
+
+        Como podemos apreciar al hacer la comparacion de los dos terminos es necesario
+        que las comparaciones sean verdaderas para arrojar un resultado verdadero.
+
+|| (or)
+        El operado logico "or" al igual que el anterior nos permite evaluar mas de dos 
+        terminos, seguimos la siguiente tabla para ver los resultados
+
+        V || V === V 
+        V || F === V 
+        F || V === V 
+        F || F === F 
+
+        En el caso de este operador logico podemos apreciar que si un termino es verdadero
+        el resultado que arroja es verdadero,
+
+! (Not)
+        El operador Not o de negación cambia el resultado de la condicion
+
+        !V === F 
+        !F === V 
