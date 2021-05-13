@@ -1,0 +1,2 @@
+Array.
+    Los arreglos son una coleccion de datos, imagina que tienes muchos recipientes en donde vas a guardar cosas, en este caso los arreglos los podemos apreciar como un gran recipiente con muchas divisiones en las que podemos guardar incluso mas arreglos.
