@@ -1,0 +1,3 @@
+Funciones callback.
+    Una función de callback es una función que se pasa a otra función como un argumento, que luego se invoca dentro de la función externa para completar algún tipo de rutina o acción.
+    Es una función dentro de una funcion, pero los argumento que recibe es otra fución y se llama dentro una funcion externa o diferente a la funcion inicial.
